@@ -1,10 +1,10 @@
-# Hi — I'm Deepika Raghuraman 👋
+# Hi — I'm Deepika 👋
 
-**I'm an AWS-certified Senior Performance & QA Automation Engineer 
+## I'm an AWS-certified Senior Performance & QA Automation Engineer 
 with 9+ years of experience delivering reliable enterprise applications 
 across banking, financial services, insurance, and utilities. I love 
 turning complex performance problems into clear, data-driven insights 
-and building automation frameworks that teams can trust and maintain.**
+and building automation frameworks that teams can trust and maintain.
 ---
 ## 🔭 What I do
 - Lead **end-to-end performance engineering** using LoadRunner and 
@@ -21,38 +21,38 @@ and building automation frameworks that teams can trust and maintain.**
   patterns, and best practices.
 ---
 ## 🛠️ Tech & Tools
-**Performance Testing:**
+Performance Testing:
 LoadRunner (VuGen, PC/LRE) · JMeter · BlazeMeter · Taurus
 **Test Automation:**
 Selenium WebDriver · Playwright (Python/TypeScript) · Postman · SoapUI
-**Languages:**
+Languages:
 Java · Python · TypeScript · SQL
-**APM / Monitoring:**
+APM / Monitoring:
 Dynatrace · AppDynamics · Splunk · New Relic · Grafana · Datadog
-**CI/CD & DevOps:**
+CI/CD & DevOps:
 Jenkins · Azure DevOps · GitHub Actions · Maven
-**Cloud:**
+Cloud:
 AWS (CloudWatch) · Azure (Azure Monitor)
-**Databases:**
+Databases:
 Oracle SQL · SQL Server · MySQL
-**Project Management:**
+Project Management:
 JIRA · Agile/Scrum · Git/GitHub
-**AI Tools:**
+AI Tools:
 GitHub Copilot · Cursor
 ---
 ## 💼 Experience Snapshot
-**Senior Performance & QA Automation Engineer — IDX Software**
+Senior Performance & QA Automation Engineer — IDX Software
 Leading performance engineering and automation for P&C enterprise 
 applications — LoadRunner, JMeter, Selenium, Playwright, Dynatrace, 
 Splunk; CI/CD integration; mentoring QE teams.
-**Senior QA & Performance Engineer — Software Concepts (JPMC Chase Bank)**
+Senior QA & Performance Engineer — Software Concepts (JPMC Chase Bank)
 Designed performance test strategies for enterprise APIs and 
 microservices in regulated financial services; Dynatrace, Splunk, 
 AppDynamics monitoring; Oracle SQL data validation; Agile delivery.
-**Associate / Programmer Analyst — Cognizant (Ally Bank / Pearson)**
+Associate / Programmer Analyst — Cognizant (Ally Bank / Pearson)
 LoadRunner and JMeter performance testing; APM monitoring; SQL 
 validation; Selenium automation; stakeholder reporting.
-**Programmer Analyst — Cognizant (Staples / Florida Power & Light)**
+Programmer Analyst — Cognizant (Staples / Florida Power & Light)
 Performance testing for retail and utility applications including 
 FPL — high-volume transactional systems; JMeter, LoadRunner, SQL.
 ---
@@ -88,6 +88,4 @@ fintech, or cloud-native environments.
 ---
 ## 📫 Reach Me
 📧 Email: deepikatharunk@gmail.com  
-📞 Phone: +1 971 344 7651  
-🔗 LinkedIn: [linkedin.com/in/deepikaraghuraman](#)  
-📍 Portland, OR, USA
+🔗 LinkedIn: https://www.linkedin.com/in/deepikam85/
