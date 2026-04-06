@@ -1,6 +1,5 @@
 ## Hi — I'm Deepika 👋
 
-## 
 - I'm an AWS-certified Senior Performance & QA Automation Engineer 
 with 9+ years of experience delivering reliable enterprise applications 
 across banking, financial services, insurance, and utilities. I love 
@@ -88,5 +87,5 @@ and mentor engineering teams — ideally in enterprise,
 fintech, or cloud-native environments.
 ---
 ## 📫 Reach Me
-📧 Email: deepikatharunk@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/deepikam85/
+📧 Email: deepikatharunk@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/deepikam85/
+
