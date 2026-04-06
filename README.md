@@ -1,6 +1,6 @@
 # Hi — I'm Deepika 👋
 
-## I'm an AWS-certified Senior Performance & QA Automation Engineer 
+#### I'm an AWS-certified Senior Performance & QA Automation Engineer 
 with 9+ years of experience delivering reliable enterprise applications 
 across banking, financial services, insurance, and utilities. I love 
 turning complex performance problems into clear, data-driven insights 
@@ -20,7 +20,7 @@ and building automation frameworks that teams can trust and maintain.
 - **Mentor** QA engineers on performance testing, automation design 
   patterns, and best practices.
 ---
-## 🛠️ Tech & Tools
+#### 🛠️ Tech & Tools
 Performance Testing:
 LoadRunner (VuGen, PC/LRE) · JMeter · BlazeMeter · Taurus
 **Test Automation:**
@@ -68,7 +68,7 @@ Correlation · SLA validation · Grafana dashboard integration
 Features: REST/SOAP validation · Auth testing · 
 Contract testing · Newman CI integration
 ---
-## 📈 How I Work
+#### 📈 How I Work
 - Design performance tests that reflect **real-world traffic patterns** — 
   not just synthetic load.
 - Use metrics (response time, throughput, error rate, SLA compliance) 
@@ -80,7 +80,7 @@ Contract testing · Newman CI integration
 - Mentor junior engineers and share knowledge through documentation 
   and team sessions.
 ---
-## ✨ Open To
+#### ✨ Open To
 Roles where I can lead **performance engineering strategy**, 
 build **automation frameworks**, improve **QA processes**, 
 and mentor engineering teams — ideally in enterprise, 
