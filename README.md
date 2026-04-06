@@ -6,7 +6,7 @@ across banking, financial services, insurance, and utilities. I love
 turning complex performance problems into clear, data-driven insights 
 and building automation frameworks that teams can trust and maintain.
 ---
-## 🔭 What I do
+#### 🔭 What I do
 - Lead **end-to-end performance engineering** using LoadRunner and 
   JMeter — load, stress, endurance, and spike testing for high-volume 
   enterprise systems.
@@ -20,7 +20,7 @@ and building automation frameworks that teams can trust and maintain.
 - **Mentor** QA engineers on performance testing, automation design 
   patterns, and best practices.
 ---
-## 🛠️ Tech & Tools
+#### 🛠️ Tech & Tools
 - Performance Testing:
 LoadRunner (VuGen, PC/LRE) · JMeter · BlazeMeter · Taurus
 **Test Automation:**
@@ -40,7 +40,7 @@ JIRA · Agile/Scrum · Git/GitHub
 AI Tools:
 GitHub Copilot · Cursor
 ---
-## 💼 Experience Snapshot
+#### 💼 Experience Snapshot
 - Senior Performance & QA Automation Engineer — IDX Software
 Leading performance engineering and automation for P&C enterprise 
 applications — LoadRunner, JMeter, Selenium, Playwright, Dynatrace, 
@@ -81,10 +81,11 @@ Contract testing · Newman CI integration
   and team sessions.
 ---
 #### ✨ Open To
-- Roles where I can lead **performance engineering strategy**, 
-build **automation frameworks**, improve **QA processes**, 
-and mentor engineering teams — ideally in enterprise, 
-fintech, or cloud-native environments.
+- Senior Performance Engineer
+- QA Automation Engineer / SDET
+- Performance & Automation Engineer (combined roles)
+- QA Lead / Engineering Manager (Quality)
+Ideally in enterprise, fintech, insurance, or cloud-native environments.
 ---
 ## 📫 Reach Me
 📧 Email: deepikatharunk@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/deepikam85/
