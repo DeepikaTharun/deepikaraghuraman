@@ -1,6 +1,7 @@
-# Hi — I'm Deepika 👋
+## Hi — I'm Deepika 👋
 
-#### I'm an AWS-certified Senior Performance & QA Automation Engineer 
+## 
+- I'm an AWS-certified Senior Performance & QA Automation Engineer 
 with 9+ years of experience delivering reliable enterprise applications 
 across banking, financial services, insurance, and utilities. I love 
 turning complex performance problems into clear, data-driven insights 
@@ -20,8 +21,8 @@ and building automation frameworks that teams can trust and maintain.
 - **Mentor** QA engineers on performance testing, automation design 
   patterns, and best practices.
 ---
-#### 🛠️ Tech & Tools
-Performance Testing:
+## 🛠️ Tech & Tools
+- Performance Testing:
 LoadRunner (VuGen, PC/LRE) · JMeter · BlazeMeter · Taurus
 **Test Automation:**
 Selenium WebDriver · Playwright (Python/TypeScript) · Postman · SoapUI
@@ -41,7 +42,7 @@ AI Tools:
 GitHub Copilot · Cursor
 ---
 ## 💼 Experience Snapshot
-Senior Performance & QA Automation Engineer — IDX Software
+- Senior Performance & QA Automation Engineer — IDX Software
 Leading performance engineering and automation for P&C enterprise 
 applications — LoadRunner, JMeter, Selenium, Playwright, Dynatrace, 
 Splunk; CI/CD integration; mentoring QE teams.
@@ -65,7 +66,7 @@ CI/CD via GitHub Actions · Python/TypeScript
 Features: Distributed load testing · Parameterization · 
 Correlation · SLA validation · Grafana dashboard integration
 ### 3. API Automation Collection (Postman)
-Features: REST/SOAP validation · Auth testing · 
+- Features: REST/SOAP validation · Auth testing · 
 Contract testing · Newman CI integration
 ---
 #### 📈 How I Work
@@ -81,7 +82,7 @@ Contract testing · Newman CI integration
   and team sessions.
 ---
 #### ✨ Open To
-Roles where I can lead **performance engineering strategy**, 
+- Roles where I can lead **performance engineering strategy**, 
 build **automation frameworks**, improve **QA processes**, 
 and mentor engineering teams — ideally in enterprise, 
 fintech, or cloud-native environments.
