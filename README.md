@@ -6,7 +6,7 @@ across banking, financial services, insurance, and utilities. I love
 turning complex performance problems into clear, data-driven insights 
 and building automation frameworks that teams can trust and maintain.
 ---
-#### 🔭 What I do
+## 🔭 What I do
 - Lead **end-to-end performance engineering** using LoadRunner and 
   JMeter — load, stress, endurance, and spike testing for high-volume 
   enterprise systems.
@@ -20,7 +20,7 @@ and building automation frameworks that teams can trust and maintain.
 - **Mentor** QA engineers on performance testing, automation design 
   patterns, and best practices.
 ---
-#### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 - Performance Testing:
 LoadRunner (VuGen, PC/LRE) · JMeter · BlazeMeter · Taurus
 **Test Automation:**
@@ -40,7 +40,7 @@ JIRA · Agile/Scrum · Git/GitHub
 AI Tools:
 GitHub Copilot · Cursor
 ---
-#### 💼 Experience Snapshot
+## 💼 Experience Snapshot
 - Senior Performance & QA Automation Engineer — IDX Software
 Leading performance engineering and automation for P&C enterprise 
 applications — LoadRunner, JMeter, Selenium, Playwright, Dynatrace, 
@@ -68,7 +68,7 @@ Correlation · SLA validation · Grafana dashboard integration
 - Features: REST/SOAP validation · Auth testing · 
 Contract testing · Newman CI integration
 ---
-#### 📈 How I Work
+## 📈 How I Work
 - Design performance tests that reflect **real-world traffic patterns** — 
   not just synthetic load.
 - Use metrics (response time, throughput, error rate, SLA compliance) 
@@ -80,7 +80,7 @@ Contract testing · Newman CI integration
 - Mentor junior engineers and share knowledge through documentation 
   and team sessions.
 ---
-#### ✨ Open To
+## ✨ Open To
 - Senior Performance Engineer
 - QA Automation Engineer / SDET
 - Performance & Automation Engineer (combined roles)
