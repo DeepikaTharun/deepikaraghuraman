@@ -88,5 +88,5 @@ Contract testing · Newman CI integration
 Ideally in enterprise, fintech, insurance, or cloud-native environments.
 ---
 ## 📫 Reach Me
-📧 Email: deepikatharunk@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/deepikam85/
+📧 Email: deepikatharunk@gmail.com  🔗 LinkedIn:(https://www.linkedin.com/in/deepikaraghu/)
 
