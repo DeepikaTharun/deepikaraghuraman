@@ -52,7 +52,7 @@ switch(browserName)
 }
 //ternary statement
 //inline
-let age = 10
+let age = 30
 let result = (age>=18)? "you are elgibe for voting " :"you are not eligible for voting"
 console.log(result);
 
@@ -64,22 +64,22 @@ console.log(result);
 // >50 && <70 -D
 // <50 - Failed
 
-/*let grade = 90
+let grade = 60
 let results = (grade>=90)? "You are A grade holder" : "you are B grade holder"
-console.log(results);*/
+console.log(results);
 
-let grade = 50
+let grade1 = 30
  
-if (grade >= 90){      
+if (grade1 >= 90){      
     console.log("You are an A grade holder")
 }
-else if (grade >=80 && grade <90){      
+else if (grade1 >=80 && grade1 <90){      
     console.log("You are a B grade holder")
 }
-else if (grade >=70 && grade <80){      
+else if (grade1 >=70 && grade1 <80){      
     console.log("You are a C grade holder")
 }
-else if (grade >=50 && grade <70){
+else if (grade1 >=50 && grade1 <70){
     console.log("You are a D grade holder")
 }
 else {      
