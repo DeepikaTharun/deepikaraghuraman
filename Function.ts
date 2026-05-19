@@ -209,4 +209,6 @@ display("Adarsh", 5)
 // Assignment - Complete the display function by writing the logic to print only
 // name if age parameter has not given any value and print both name and age 
 // if age value has also been given at the time calling the function.
-function display1(name: string, age?: number) {console.log(age === undefined ? name : `${name} ${age}`);}
+function display1(name: string, age?: number) {
+    console.log(age === undefined ? name : `${name} ${age}`);
+}
