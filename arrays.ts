@@ -76,3 +76,8 @@ console.log(arr2.slice(3,7))
 let arr3 =[10,20,30,40,50,60]
 arr3.splice(0,2,)
 console.log("splice()",arr3);
+
+//index of
+//includes()
+//join()
+//toString()
